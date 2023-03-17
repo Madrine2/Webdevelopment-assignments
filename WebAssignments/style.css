@@ -1,0 +1,130 @@
+.Container{
+    width: 600px;
+    height: 900px;
+    margin-left: 20px;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.Card2{
+    height: 200px;
+    width: 200px;
+    background-color: grey;
+  
+    
+
+}
+.row2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.Card1{
+   
+    background-color: blue;
+    height: 200;
+    width: 200;
+}
+
+.Card1:hover{
+    color: white;
+    background-color: pink;
+}
+
+.Card1:hover a{
+    color: white;
+    background-color: pink;
+}
+
+.row1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
+    
+}
+
+.Card{
+    height: 200px;
+    width: 200px;
+    background-color: gray;
+}
+
+.Card:hover{
+    color: white;
+    background-color: pink;
+}
+
+.Card:hover a{
+    color: white;
+    background-color: pink;
+}
+
+.Card2{
+
+    height: 200px;
+    width: 200px;
+    background-color: rgb(95, 124, 204);
+
+}
+
+.Card2:hover{
+    color: white;
+    background-color: pink;
+}
+
+.Card2:hover a{
+    color: white;
+    background-color: pink;
+}
+
+.Card3{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(144, 133, 204);
+}
+.Card3:hover{
+    color: white;
+    background-color: pink;
+}
+
+.Card3:hover a{
+    color: white;
+    background-color: pink;
+}
+
+.Card4{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(224, 164, 123);
+}
+
+.Card4:hover{
+    color: white;
+    background-color: pink;
+}
+
+.Card4:hover a{
+    color: white;
+    background-color: pink;
+}
+
+
+p{
+    text-align: center;
+    margin-top: 80;
+}
+
+ a{
+	font-family: sans-serif;
+    color: black;
+    font-size: 26px;
+    text-decoration: none;
+}
+
